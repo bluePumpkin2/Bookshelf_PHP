@@ -1,0 +1,12 @@
+form, button{
+    display: inline-block;
+}
+
+h1{
+    font-style: red;
+    font-size: 500px;
+}
+
+body{
+    background: red;
+}
